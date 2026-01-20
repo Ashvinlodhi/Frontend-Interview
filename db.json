@@ -1,16 +1,13 @@
 {
   "blogs": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Future of Fintech",
-      "category": [
-        "FINANCE",
-        "TECH"
-      ],
-      "description": "Exploring how AI and blockchain are reshaping financial services and what it means for the accounting profession",
-      "date": "2026-01-11T09:12:45.120Z",
-      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
-      "content": "Fintech is no longer a buzzword—it is a structural shift in how financial services operate. Technologies such as artificial intelligence, blockchain, and cloud computing are redefining payments, lending, auditing, and compliance. AI-driven analytics now automate tasks that once required teams of accountants, enabling faster insights and fewer errors. Blockchain, on the other hand, introduces transparency and immutability, reducing fraud and improving trust in financial records.\n\nFor accounting and finance professionals, this shift demands adaptation. Understanding data analytics, digital ledgers, and automated compliance tools is becoming as important as traditional accounting standards. Fintech platforms are also making financial services more accessible, allowing small businesses and individuals to manage finances with tools previously reserved for large corporations.\n\nHowever, this evolution also raises challenges. Data privacy, cybersecurity, and regulatory alignment remain critical concerns. Professionals must balance innovation with compliance while ensuring ethical use of technology. Those who proactively upskill and embrace digital transformation will find themselves better positioned in a rapidly changing financial ecosystem. Fintech is not replacing finance professionals—it is redefining their role."
+      "category": ["FINTECH"],
+      "description": "Exploring how AI and blockchain are reshaping financial services.",
+      "date": "2026-01-01",
+      "coverImage": "https://example.com/image.jpg",
+      "content": "Full content here..."
     },
     {
       "id": "2",
